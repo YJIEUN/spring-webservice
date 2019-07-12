@@ -29,7 +29,7 @@ deploy:
     acl: public_read
     wait-until-deployed: true
     on:
-      repo: YJIEUN/springboot-webservice #Github 주소
+      repo: YJIEUN/spring-webservice #Github 주소
       branch: master
       
 # CI 실행 완료시 메일로 알람
